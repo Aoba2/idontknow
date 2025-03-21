@@ -1,0 +1,158 @@
+{
+  "titlesTotalizers": {
+    "AREA_CADASTRADA": "Area Cadastrada"
+  },
+  "projectName": "Novo Consulta Pública",
+  "pages": {
+    "home": "Página Principal",
+    "geoservices": "Geosserviços",
+    "observatory": "Observatório do CAR",
+    "dynamicReports": "Relatório Dinâmico",
+    "about": "Sobre o Novo Consulta Pública"
+  },
+  "footer": {
+    "moreContent": "Mais conteúdo",
+    "seeInformation": "Veja mais informações disponibilizadas pelo Novo Consulta Pública"
+  },
+  "card": {
+    "description": {
+      "downloadData": "Baixe os dados públicos do SICAR",
+      "checkInformation": "Confira informações sobre o CAR",
+      "getTheData": "Obtenha os dados como deseja",
+      "findOut": "Saiba o que é e como funciona",
+      "seeOneOrMore": "Veja um ou mais CAR no mapa"
+    }
+  },
+  "label": {
+    "city": "Município",
+    "cityPlaceholder": "Selecione os municípios desejados",
+    "carPlaceholder": "UF-1302405-E6D3.395B.6D27.4F42.AE22.DD56.987C.DD52",
+    "ufPlaceholder": "Estado",
+    "carNumber": "Número de registro no CAR",
+    "state": "Estado",
+    "registrationNumber": "Registro de inscrição do CAR",
+    "registrationDate": "Data de inscrição",
+    "lastCorrection": "Última retificação",
+    "centroidCoordinates": "Coordenadas Geográficas do Centróide",
+    "filterBy": "Filtrar por:",
+    "select": "Selecione",
+    "service": "Serviço",
+    "active": "Ativo",
+    "off": "Desligado",
+    "on": "Ligado",
+    "obtainedData": "Dados obtidos em:"
+  },
+  "button": {
+    "search": "Buscar",
+    "enter": "Entrar",
+    "north": "Norte",
+    "northeast": "Nordeste",
+    "central-west": "Centro-Oeste",
+    "southeast": "Sudeste",
+    "south": "Sul",
+    "enterWith": "Entrar com",
+    "clear": "Limpar"
+  },
+  "areaMessage": {
+    "search": "Você buscou as seguintes informações:",
+    "registered": "Área Cadastrada",
+    "reserve": "Área Reserva Legal",
+    "preservation": "Área de preservação permanente",
+    "vegetation": "Área de vegetação nativa",
+    "consolidated": "Área consolidada"
+  },
+  "message": {
+    "tryAgain": "Tentar novamente",
+    "checkRegistered": "Confira as áreas cadastradas ou busque um CAR por seu número de registro",
+    "publicPortal": "O portal com dados públicos do CAR",
+    "findOutMore": "Saiba mais",
+    "selectRegionsToAccessGeoServices": "Selecione a região do estado que deseja acessar os geosserviços",
+    "statesOfSelectedRegion": "Estados da região selecionada",
+    "noOneRegionSelected": "Nenhuma região selecionada",
+    "noResults": "Nenhum resultado encontrado",
+    "hello": "Olá, ",
+    "searchDetails": "Detalhes da pesquisa"
+  },
+  "header": {
+    "ministry": "Ministério da Gestão e da Inovação"
+  },
+  "property": {
+    "ruralPropertyData": "Dados do imóvel rural",
+    "municipality": "Município",
+    "federationUnit": "Unidade da federação",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "propertyArea": "Área do imóvel rural",
+    "taxModules": "Módulos fiscais",
+    "downloadStatement": "Baixar demonstrativo",
+    "downloadFeatures": "Baixar feições"
+  },
+  "themes": {
+    "recaptchaWarn": "Por favor, faça o captcha para concluir seu download",
+    "topics": "Temas",
+    "files": "Arquivos",
+    "topic": "Tema",
+    "services": "Serviços",
+    "download": "Baixar",
+    "downloadAgain": "Baixar novamente",
+    "downloadAll": "Baixar todos",
+    "results": "Resultados",
+    "loading": "Carregando temas...",
+    "features": "Feições"
+  },
+  "details": {
+    "registrationNumber": "Registro de inscrição do CAR",
+    "registrationDate": "Data de inscrição",
+    "lastCorrection": "Última retificação",
+    "centroidCoordinates": "Coordenadas Geográficas do Centróide"
+  },
+  "contentState": {
+    "searchInformation": "Você buscou as seguintes informações",
+    "state": "Estado"
+  },
+  "messageToast": {
+    "warning": {
+      "loginRequired": "Faça login com sua conta govBr para acessar esta página.",
+      "carNotFound": "Nenhum registro CAR encontrado para o número informado."
+    },
+    "error": {
+      "logged": "Houve um problema ao tentar fazer login. Tente novamente.",
+      "loadEnvironmentalThemes": "Ocorreu um erro ao carregar os temas ambientais.",
+      "searchCar": "Ocorreu um erro ao buscar o registro do CAR. Tente novamente mais tarde.",
+      "download": "Ocorreu um erro ao realizar o download.",
+      "generic": "Ocorreu um erro no sistema. Por favor tente novamente mais tarde",
+      "copy": "Erro ao copiar "
+    },
+    "success": {
+      "fullyLogged": "Login realizado com sucesso!",
+      "carFound": "Registro CAR encontrado com sucesso!",
+      "download": "Download realizado com sucesso!",
+      "copy": " copiado com sucesso"
+    },
+    "info": {
+      "enterCarNumber": "Digite o número do registro CAR para realizar a pesquisa."
+    }
+  },
+  "logWithGovBr": {
+    "message": {
+      "downloadInformation": "Faça o login com gov.br e baixe as informações da sua pesquisa",
+      "mapComponent": "Faça o login com gov.br para vizualizar o mapa",
+      "geoServices": "Faça o login com gov.br para ter acesso ao conteudo de geosserviço"
+    },
+    "title": {
+      "data": "ACESSO AOS DADOS",
+      "mapComponet": "ACESSO AO MAPA",
+      "geoServices": "ACESSO AO CONTEUDO DE GEOSSERVIÇO"
+    }
+  },
+  "about": {
+    "paragraphOne": "O Novo Consulta Pública foi desenvolvido para garantir transparência e facilitar o acesso às informações sobre a regularização ambiental dos imóveis rurais no Brasil, conforme o artigo 3º, inciso V, do Decreto 7.830/2012. A plataforma facilita o acesso aos dados do Sistema de Cadastro Ambiental Rural (SICAR), permitindo que pesquisadores, gestores ambientais, produtores rurais e a sociedade civil utilizem as informações para diferentes finalidades, como monitoramento, estudos acadêmicos e formulação de políticas públicas.",
+    "isPossible": "Por meio dessa ferramenta, é possível:",
+    "topicOne": "Visualizar interativamente os dados, tornando a consulta mais intuitiva e dinâmica;",
+    "topicTwo": "Baixar informações de forma estruturada e filtrada, conforme a necessidade do usuário;",
+    "topicThree": "Acessar um dicionário de dados, garantindo clareza e compreensão das informações disponíveis;",
+    "topicFour": "Utilizar geosserviços integráveis a plataformas de SIG para análises espaciais detalhadas.",
+    "paragraphTwo": "Além disso, o Painel da Regularização Ambiental apresenta um panorama atualizado da regularização ambiental dos imóveis rurais no Brasil. Os dados podem ser acessados de forma consolidada ou segmentada, com filtros temáticos predefinidos ou customizados conforme a necessidade do usuário.",
+    "paragraphThree": "Os dados disponibilizados no Novo Consulta Pública serão atualizados mensalmente, garantindo maior transparência na consulta e utilização das informações."
+  }
+}

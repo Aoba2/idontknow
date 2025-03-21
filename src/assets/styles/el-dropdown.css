@@ -1,0 +1,27 @@
+.el-button .el-dropdown span {
+  margin-left: 15px;
+  color: #0a2f6b;
+  font-size: 17px;
+}
+
+.el-button .el-dropdown span:hover {
+  background: none;
+}
+
+.el-dropdown-menu .el-dropdown-item { 
+  width: 80px;
+  background: red;
+}
+
+.download-dropdown {
+  width: 150px;
+  font-size: 15px;
+}
+
+.download-dropdown:hover {
+  background: none;
+}
+
+.el-dropdown.menu-toggle {
+  width: 0;
+}

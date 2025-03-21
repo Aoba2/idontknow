@@ -1,0 +1,68 @@
+.leaflet-control-layers {
+  border: 1px solid #ffffff !important;
+  border-radius: 10px;
+}
+
+.leaflet-control-layers-separator {
+  display: none;
+}
+
+.leaflet-control-layers label {
+  font-size: 15px;
+  color: #333;
+  padding: 5px;
+}
+
+.leaflet-control-layers input[type="radio"] {
+  accent-color: #42916E;
+}
+
+.leaflet-control-layers-overlays {
+  display: none;
+}
+
+.leaflet-control-layers-toggle {
+  background-image: url("../icon/layer-group-svgrepo-com.svg");
+  background-size: 18px 18px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 33px !important;
+  height: 33px !important;
+}
+
+.leaflet-control-layers label {
+  color: #333;
+  cursor: pointer;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+/* zoom */
+
+.leaflet-control-zoom {
+  border: none !important;
+  background: transparent !important;
+}
+
+.leaflet-control-zoom a {
+  width: 35px !important;
+  height: 35px !important;
+  font-size: 22px !important;
+  line-height: 35px !important;
+  border: none !important;
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.leaflet-control-zoom a:first-child {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.leaflet-control-zoom a:last-child {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: white !important;
+}

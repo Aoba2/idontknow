@@ -1,0 +1,27 @@
+.el-switch {
+  --switch-active-color: #42916E;
+  --switch-inactive-color: #CCCCCC;
+}
+
+.el-switch.is-checked .el-switch__core {
+  background-color:  #42916E !important;
+  border-color: #42916E !important;
+}
+
+.el-switch.is-checked .el-switch__core .el-switch__inner {
+  color: #42916E !important;
+}
+
+.el-switch .el-switch__core::after {
+  background-color: #CCCCCC !important;
+}
+
+.el-switch .el-switch__core {
+  background-color: white !important;
+  border-color: #CCCCCC !important;
+}
+
+.el-switch.is-error .el-switch__core {
+  background-color: #70707045 !important;
+  border-color: #70707045 !important;
+}
